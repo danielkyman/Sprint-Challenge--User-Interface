@@ -177,12 +177,11 @@ button:hover{
 
 .end{
     width:800px;
-    margin: 20px 30px;
+    margin: 20px 0px 20px 15px;
 }
 
 
 footer {
-    margin: 20px 15px;
     width: 800px;
     background: black;
 }
